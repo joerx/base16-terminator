@@ -7,7 +7,7 @@ Terminator config using base16 color scheme. All credit goes to Chris Kempson fo
 Installation
 ------------
 
-Copy 'config' to ~/.config/terminator. Or at least copy/replace the following lines:
+Copy `config` to `~/.config/terminator` or copy/replace the following lines:
 
 ```
 palette = "#2d2d2d:#f2777a:#99cc99:#ffcc66:#6699cc:#cc99cc:#66cccc:#d3d0c8:#747369:#f2777a:#99cc99:#ffcc66:#6699cc:#cc99cc:#66cccc:#f2f0ec"
